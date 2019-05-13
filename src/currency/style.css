@@ -1,0 +1,9 @@
+.wrapper-inputs {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.chart {
+    margin-top:10px;
+}
